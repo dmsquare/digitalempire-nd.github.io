@@ -1,0 +1,1554 @@
+{
+ "nodes": [
+  {
+   "name": "丙吉",
+   "label": "PERSON",
+   "id": 1,
+   "group": 1
+  },
+  {
+   "name": "丙顯",
+   "label": "PERSON",
+   "id": 2,
+   "group": 1
+  },
+  {
+   "name": "于定國",
+   "label": "PERSON",
+   "id": 3,
+   "group": 1
+  },
+  {
+   "name": "于永",
+   "label": "PERSON",
+   "id": 4,
+   "group": 1
+  },
+  {
+   "name": "五鹿充宗",
+   "label": "PERSON",
+   "id": 5,
+   "group": 1
+  },
+  {
+   "name": "京房",
+   "label": "PERSON",
+   "id": 6,
+   "group": 1
+  },
+  {
+   "name": "伏理",
+   "label": "PERSON",
+   "id": 7,
+   "group": 1
+  },
+  {
+   "name": "劉向",
+   "label": "PERSON",
+   "id": 8,
+   "group": 1
+  },
+  {
+   "name": "劉更生",
+   "label": "PERSON",
+   "id": 9,
+   "group": 1
+  },
+  {
+   "name": "匡咸",
+   "label": "PERSON",
+   "id": 10,
+   "group": 1
+  },
+  {
+   "name": "匡衡",
+   "label": "PERSON",
+   "id": 11,
+   "group": 1
+  },
+  {
+   "name": "史高",
+   "label": "PERSON",
+   "id": 12,
+   "group": 1
+  },
+  {
+   "name": "后倉",
+   "label": "PERSON",
+   "id": 13,
+   "group": 1
+  },
+  {
+   "name": "周堪",
+   "label": "PERSON",
+   "id": 14,
+   "group": 1
+  },
+  {
+   "name": "嚴延年",
+   "label": "PERSON",
+   "id": 15,
+   "group": 1
+  },
+  {
+   "name": "嚴彭祖",
+   "label": "PERSON",
+   "id": 16,
+   "group": 1
+  },
+  {
+   "name": "夏侯勝",
+   "label": "PERSON",
+   "id": 17,
+   "group": 1
+  },
+  {
+   "name": "夏侯始昌",
+   "label": "PERSON",
+   "id": 18,
+   "group": 1
+  },
+  {
+   "name": "夏侯建",
+   "label": "PERSON",
+   "id": 19,
+   "group": 1
+  },
+  {
+   "name": "嬴公",
+   "label": "PERSON",
+   "id": 20,
+   "group": 1
+  },
+  {
+   "name": "孔光",
+   "label": "PERSON",
+   "id": 21,
+   "group": 1
+  },
+  {
+   "name": "孔霸",
+   "label": "PERSON",
+   "id": 22,
+   "group": 1
+  },
+  {
+   "name": "孟卿",
+   "label": "PERSON",
+   "id": 23,
+   "group": 1
+  },
+  {
+   "name": "孟喜",
+   "label": "PERSON",
+   "id": 24,
+   "group": 1
+  },
+  {
+   "name": "孫寶",
+   "label": "PERSON",
+   "id": 25,
+   "group": 1
+  },
+  {
+   "name": "孫會宗",
+   "label": "PERSON",
+   "id": 26,
+   "group": 1
+  },
+  {
+   "name": "崇子平",
+   "label": "PERSON",
+   "id": 27,
+   "group": 1
+  },
+  {
+   "name": "師丹",
+   "label": "PERSON",
+   "id": 28,
+   "group": 1
+  },
+  {
+   "name": "平晏",
+   "label": "PERSON",
+   "id": 29,
+   "group": 1
+  },
+  {
+   "name": "張敞",
+   "label": "PERSON",
+   "id": 30,
+   "group": 1
+  },
+  {
+   "name": "張武",
+   "label": "PERSON",
+   "id": 31,
+   "group": 1
+  },
+  {
+   "name": "張游卿",
+   "label": "PERSON",
+   "id": 32,
+   "group": 1
+  },
+  {
+   "name": "張禹",
+   "label": "PERSON",
+   "id": 33,
+   "group": 1
+  },
+  {
+   "name": "張竦",
+   "label": "PERSON",
+   "id": 34,
+   "group": 1
+  },
+  {
+   "name": "彭宣",
+   "label": "PERSON",
+   "id": 35,
+   "group": 1
+  },
+  {
+   "name": "慶普",
+   "label": "PERSON",
+   "id": 36,
+   "group": 1
+  },
+  {
+   "name": "戴崇",
+   "label": "PERSON",
+   "id": 37,
+   "group": 1
+  },
+  {
+   "name": "戴德",
+   "label": "PERSON",
+   "id": 38,
+   "group": 1
+  },
+  {
+   "name": "戴聖",
+   "label": "PERSON",
+   "id": 39,
+   "group": 1
+  },
+  {
+   "name": "施讎",
+   "label": "PERSON",
+   "id": 40,
+   "group": 1
+  },
+  {
+   "name": "朱博",
+   "label": "PERSON",
+   "id": 41,
+   "group": 1
+  },
+  {
+   "name": "杜延年",
+   "label": "PERSON",
+   "id": 42,
+   "group": 1
+  },
+  {
+   "name": "梁丘臨",
+   "label": "PERSON",
+   "id": 43,
+   "group": 1
+  },
+  {
+   "name": "梁丘賀",
+   "label": "PERSON",
+   "id": 44,
+   "group": 1
+  },
+  {
+   "name": "楊惲",
+   "label": "PERSON",
+   "id": 45,
+   "group": 1
+  },
+  {
+   "name": "楊興",
+   "label": "PERSON",
+   "id": 46,
+   "group": 1
+  },
+  {
+   "name": "歐陽地餘",
+   "label": "PERSON",
+   "id": 47,
+   "group": 1
+  },
+  {
+   "name": "歐陽高",
+   "label": "PERSON",
+   "id": 48,
+   "group": 1
+  },
+  {
+   "name": "滿昌",
+   "label": "PERSON",
+   "id": 49,
+   "group": 1
+  },
+  {
+   "name": "牟卿",
+   "label": "PERSON",
+   "id": 50,
+   "group": 1
+  },
+  {
+   "name": "王中",
+   "label": "PERSON",
+   "id": 51,
+   "group": 1
+  },
+  {
+   "name": "王仲翁",
+   "label": "PERSON",
+   "id": 52,
+   "group": 1
+  },
+  {
+   "name": "王吉",
+   "label": "PERSON",
+   "id": 53,
+   "group": 1
+  },
+  {
+   "name": "王嘉",
+   "label": "PERSON",
+   "id": 54,
+   "group": 1
+  },
+  {
+   "name": "王崇",
+   "label": "PERSON",
+   "id": 55,
+   "group": 1
+  },
+  {
+   "name": "王式",
+   "label": "PERSON",
+   "id": 56,
+   "group": 1
+  },
+  {
+   "name": "王駿",
+   "label": "PERSON",
+   "id": 57,
+   "group": 1
+  },
+  {
+   "name": "王鳳",
+   "label": "PERSON",
+   "id": 58,
+   "group": 1
+  },
+  {
+   "name": "田王孫",
+   "label": "PERSON",
+   "id": 59,
+   "group": 1
+  },
+  {
+   "name": "疏受",
+   "label": "PERSON",
+   "id": 60,
+   "group": 1
+  },
+  {
+   "name": "疏廣",
+   "label": "PERSON",
+   "id": 61,
+   "group": 1
+  },
+  {
+   "name": "白光",
+   "label": "PERSON",
+   "id": 62,
+   "group": 1
+  },
+  {
+   "name": "白奇",
+   "label": "PERSON",
+   "id": 63,
+   "group": 1
+  },
+  {
+   "name": "眭孟",
+   "label": "PERSON",
+   "id": 64,
+   "group": 1
+  },
+  {
+   "name": "眭弘",
+   "label": "PERSON",
+   "id": 65,
+   "group": 1
+  },
+  {
+   "name": "石顯",
+   "label": "PERSON",
+   "id": 66,
+   "group": 1
+  },
+  {
+   "name": "筦路",
+   "label": "PERSON",
+   "id": 67,
+   "group": 1
+  },
+  {
+   "name": "翟方進",
+   "label": "PERSON",
+   "id": 68,
+   "group": 1
+  },
+  {
+   "name": "翟牧",
+   "label": "PERSON",
+   "id": 69,
+   "group": 1
+  },
+  {
+   "name": "翼奉",
+   "label": "PERSON",
+   "id": 70,
+   "group": 1
+  },
+  {
+   "name": "蔡義",
+   "label": "PERSON",
+   "id": 71,
+   "group": 1
+  },
+  {
+   "name": "蕑卿",
+   "label": "PERSON",
+   "id": 72,
+   "group": 1
+  },
+  {
+   "name": "蕭咸",
+   "label": "PERSON",
+   "id": 73,
+   "group": 1
+  },
+  {
+   "name": "蕭奮",
+   "label": "PERSON",
+   "id": 74,
+   "group": 1
+  },
+  {
+   "name": "蕭望之",
+   "label": "PERSON",
+   "id": 75,
+   "group": 1
+  },
+  {
+   "name": "蕭由",
+   "label": "PERSON",
+   "id": 76,
+   "group": 1
+  },
+  {
+   "name": "蕭育",
+   "label": "PERSON",
+   "id": 77,
+   "group": 1
+  },
+  {
+   "name": "薛廣德",
+   "label": "PERSON",
+   "id": 78,
+   "group": 1
+  },
+  {
+   "name": "許商",
+   "label": "PERSON",
+   "id": 79,
+   "group": 1
+  },
+  {
+   "name": "許延壽",
+   "label": "PERSON",
+   "id": 80,
+   "group": 1
+  },
+  {
+   "name": "貢禹",
+   "label": "PERSON",
+   "id": 81,
+   "group": 1
+  },
+  {
+   "name": "通漢",
+   "label": "PERSON",
+   "id": 82,
+   "group": 1
+  },
+  {
+   "name": "鄭寬中",
+   "label": "PERSON",
+   "id": 83,
+   "group": 1
+  },
+  {
+   "name": "金敞",
+   "label": "PERSON",
+   "id": 84,
+   "group": 1
+  },
+  {
+   "name": "陳咸",
+   "label": "PERSON",
+   "id": 85,
+   "group": 1
+  },
+  {
+   "name": "陳萬年",
+   "label": "PERSON",
+   "id": 86,
+   "group": 1
+  },
+  {
+   "name": "韋玄成",
+   "label": "PERSON",
+   "id": 87,
+   "group": 1
+  },
+  {
+   "name": "韋賞",
+   "label": "PERSON",
+   "id": 88,
+   "group": 1
+  },
+  {
+   "name": "韋賢",
+   "label": "PERSON",
+   "id": 89,
+   "group": 1
+  },
+  {
+   "name": "韓延壽",
+   "label": "PERSON",
+   "id": 90,
+   "group": 1
+  },
+  {
+   "name": "顏安樂",
+   "label": "PERSON",
+   "id": 91,
+   "group": 1
+  },
+  {
+   "name": "馬宮",
+   "label": "PERSON",
+   "id": 92,
+   "group": 1
+  },
+  {
+   "name": "馮奉世",
+   "label": "PERSON",
+   "id": 93,
+   "group": 1
+  },
+  {
+   "name": "馮逡",
+   "label": "PERSON",
+   "id": 94,
+   "group": 1
+  },
+  {
+   "name": "魏相",
+   "label": "PERSON",
+   "id": 95,
+   "group": 1
+  },
+  {
+   "name": "魯伯",
+   "label": "PERSON",
+   "id": 96,
+   "group": 1
+  },
+  {
+   "name": "黃霸",
+   "label": "PERSON",
+   "id": 97,
+   "group": 1
+  },
+  {
+   "name": "龔勝",
+   "label": "PERSON",
+   "id": 98,
+   "group": 1
+  }
+ ],
+ "links": [
+  {
+   "source": 15,
+   "target": 16,
+   "type": "BROTHER_BROTHER",
+   "group": 1
+  },
+  {
+   "source": 16,
+   "target": 15,
+   "type": "BROTHER_BROTHER",
+   "group": 1
+  },
+  {
+   "source": 9,
+   "target": 81,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 9,
+   "target": 87,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 11,
+   "target": 57,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 15,
+   "target": 44,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 30,
+   "target": 75,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 44,
+   "target": 15,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 57,
+   "target": 11,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 66,
+   "target": 75,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 75,
+   "target": 30,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 75,
+   "target": 66,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 75,
+   "target": 90,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 75,
+   "target": 93,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 81,
+   "target": 9,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 87,
+   "target": 9,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 90,
+   "target": 75,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 93,
+   "target": 75,
+   "type": "ENEMY",
+   "group": 2
+  },
+  {
+   "source": 1,
+   "target": 95,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 3,
+   "target": 30,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 5,
+   "target": 66,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 8,
+   "target": 14,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 8,
+   "target": 75,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 8,
+   "target": 84,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 11,
+   "target": 70,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 11,
+   "target": 81,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 14,
+   "target": 8,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 14,
+   "target": 75,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 14,
+   "target": 84,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 15,
+   "target": 30,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 26,
+   "target": 45,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 28,
+   "target": 68,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 30,
+   "target": 3,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 30,
+   "target": 15,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 30,
+   "target": 45,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 30,
+   "target": 75,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 41,
+   "target": 77,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 45,
+   "target": 26,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 45,
+   "target": 30,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 45,
+   "target": 87,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 53,
+   "target": 81,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 66,
+   "target": 5,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 68,
+   "target": 28,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 70,
+   "target": 11,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 75,
+   "target": 8,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 75,
+   "target": 14,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 75,
+   "target": 30,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 75,
+   "target": 84,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 77,
+   "target": 41,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 77,
+   "target": 85,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 81,
+   "target": 11,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 81,
+   "target": 53,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 84,
+   "target": 8,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 84,
+   "target": 14,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 84,
+   "target": 75,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 85,
+   "target": 77,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 87,
+   "target": 45,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 95,
+   "target": 1,
+   "type": "FRIENDS",
+   "group": 3
+  },
+  {
+   "source": 4,
+   "target": 54,
+   "type": "MENTOR",
+   "group": 4
+  },
+  {
+   "source": 12,
+   "target": 11,
+   "type": "MENTOR",
+   "group": 4
+  },
+  {
+   "source": 58,
+   "target": 41,
+   "type": "MENTOR",
+   "group": 4
+  },
+  {
+   "source": 58,
+   "target": 77,
+   "type": "MENTOR",
+   "group": 4
+  },
+  {
+   "source": 58,
+   "target": 85,
+   "type": "MENTOR",
+   "group": 4
+  },
+  {
+   "source": 75,
+   "target": 78,
+   "type": "MENTOR",
+   "group": 4
+  },
+  {
+   "source": 80,
+   "target": 15,
+   "type": "MENTOR",
+   "group": 4
+  },
+  {
+   "source": 95,
+   "target": 75,
+   "type": "MENTOR",
+   "group": 4
+  },
+  {
+   "source": 1,
+   "target": 2,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 3,
+   "target": 4,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 11,
+   "target": 10,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 23,
+   "target": 24,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 44,
+   "target": 43,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 53,
+   "target": 57,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 75,
+   "target": 73,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 75,
+   "target": 76,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 75,
+   "target": 77,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 89,
+   "target": 87,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 89,
+   "target": 88,
+   "type": "FATHER_SON",
+   "group": 5
+  },
+  {
+   "source": 1,
+   "target": 3,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 1,
+   "target": 42,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 1,
+   "target": 52,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 1,
+   "target": 75,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 1,
+   "target": 86,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 4,
+   "target": 94,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 11,
+   "target": 57,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 12,
+   "target": 11,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 21,
+   "target": 28,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 28,
+   "target": 92,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 46,
+   "target": 11,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 58,
+   "target": 41,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 66,
+   "target": 81,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 68,
+   "target": 28,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 75,
+   "target": 9,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 75,
+   "target": 11,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 75,
+   "target": 33,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 75,
+   "target": 78,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 85,
+   "target": 41,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 85,
+   "target": 57,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 85,
+   "target": 77,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 95,
+   "target": 75,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 95,
+   "target": 90,
+   "type": "RECOMMENDATION",
+   "group": 6
+  },
+  {
+   "source": 6,
+   "target": 44,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 11,
+   "target": 7,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 11,
+   "target": 10,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 11,
+   "target": 28,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 11,
+   "target": 49,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 13,
+   "target": 11,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 13,
+   "target": 36,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 13,
+   "target": 38,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 13,
+   "target": 39,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 13,
+   "target": 70,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 13,
+   "target": 75,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 13,
+   "target": 82,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 14,
+   "target": 50,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 14,
+   "target": 79,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 16,
+   "target": 51,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 17,
+   "target": 14,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 17,
+   "target": 19,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 17,
+   "target": 22,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 17,
+   "target": 75,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 17,
+   "target": 97,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 18,
+   "target": 13,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 18,
+   "target": 17,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 20,
+   "target": 23,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 20,
+   "target": 64,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 20,
+   "target": 81,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 23,
+   "target": 13,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 23,
+   "target": 24,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 23,
+   "target": 61,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 24,
+   "target": 62,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 24,
+   "target": 69,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 33,
+   "target": 27,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 33,
+   "target": 35,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 33,
+   "target": 37,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 40,
+   "target": 33,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 40,
+   "target": 43,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 40,
+   "target": 96,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 43,
+   "target": 57,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 44,
+   "target": 5,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 44,
+   "target": 33,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 44,
+   "target": 43,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 44,
+   "target": 57,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 48,
+   "target": 19,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 50,
+   "target": 21,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 53,
+   "target": 33,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 53,
+   "target": 57,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 56,
+   "target": 78,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 59,
+   "target": 24,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 59,
+   "target": 40,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 59,
+   "target": 44,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 61,
+   "target": 67,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 63,
+   "target": 75,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 64,
+   "target": 16,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 64,
+   "target": 91,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 67,
+   "target": 25,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 72,
+   "target": 17,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 74,
+   "target": 23,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 78,
+   "target": 98,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 89,
+   "target": 87,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 89,
+   "target": 88,
+   "type": "TEACHER_DISCIPLE",
+   "group": 7
+  },
+  {
+   "source": 61,
+   "target": 60,
+   "type": "UNCLE_NEPHEW",
+   "group": 8
+  }
+ ]
+}
